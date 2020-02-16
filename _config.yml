@@ -6,7 +6,7 @@ author:             "YoungJungCho"
 baseurl:            "/"
 url:                "https://www.everythegame.com"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/everythegame_thumbnail.jpg"
 
 # Social Profiles
 instagram_username: sleeping_cho
