@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /dragonball_kakarot/
-title: '우린 모두, 손오공이다! <br>드래곤볼Z 카카로트'
+title: '우린 모두, 손오공이다! 드래곤볼Z 카카로트'
 date: 2020-02-03 20:00:00 +09:00
 feature: '/img/posts/002/kakarot_thumbnail.jpg'
 background: '/img/posts/002/main.jpg'
