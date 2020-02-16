@@ -1,0 +1,27 @@
+title:              "EveryTheGame"
+tagline:            "나만의 게임을 저장 하시겠습니까?"
+email:              "wwjocom88@gmail.com"
+description:        "슈퍼패미콤에서 콘솔까지! 게임의 모든것을 섭렵하다!"
+author:             "YoungJungCho"
+baseurl:            "/"
+url:                "https://www.everythegame.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+instagram_username: sleeping_cho
+facebook_username:  youngjung.cho
+
+# 블로그 disqus shortname
+disqus:
+  shortname: everythegame-com
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
