@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /dragonball_kakarot/
-title: '우린 모두, 손오공이다! 드래곤볼Z 카카로트'
+title: '내가 손오공이다! 드래곤볼Z 카카로트'
 date: 2020-02-03 20:00:00 +09:00
 feature: '/img/posts/002/kakarot_thumbnail.jpg'
 background: '/img/posts/002/main.jpg'
@@ -13,7 +13,7 @@ tags:
   - 최신게임
   - 플스게임
   - 피씨게임
-description: '내가 손오공이 되어 드래곤볼 세계에 빠져들 수 있는 기회!'
+description: '너의 소원 3가지를 들어주마!'
 ---
 
 ## 안 본 눈 삽니다! 역대급 만화 드래곤볼 게임의 재림! ##
