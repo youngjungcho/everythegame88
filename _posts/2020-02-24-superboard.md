@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /'Narara Superboard'/
+permalink: /'Narara_Superboard'/
 title: '비운의 미완성작 환상서유기'
 date: 2020-02-24 18:00:00 +09:00
 feature: '/img/posts/004/super_thumbnail.jpg'
