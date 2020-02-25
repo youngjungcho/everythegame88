@@ -6,7 +6,7 @@ date: 2020-02-24 18:00:00 +09:00
 feature: '/img/posts/004/super_thumbnail.jpg'
 background: '/img/posts/004/super_main.jpg'
 categories:
-  - 고전게임
+  - Oldgames
 tags:
   - 날아라슈퍼보드
   - 환상서유기
