@@ -6,7 +6,7 @@ date: 2020-02-03 20:00:00 +09:00
 feature: '/img/posts/002/kakarot_thumbnail.jpg'
 background: '/img/posts/002/main.jpg'
 categories:
-  - 최신게임
+  - Latestgames
 tags:
   - 드래곤볼
   - 드래곤볼카카로트
