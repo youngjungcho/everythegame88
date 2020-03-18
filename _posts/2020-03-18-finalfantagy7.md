@@ -2,7 +2,7 @@
 layout: post
 permalink: /finalfantagy7/
 title: 'FINAL FANTASY.VII REMAKE'
-date: 2020-03-18 18:00:00 +09:00
+date: 2020-03-18 10:00:00 +09:00
 feature: '/img/posts/006/006_thumbnail.jpg'
 background: '/img/posts/006/006_main.jpg'
 categories:
