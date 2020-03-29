@@ -6,7 +6,7 @@ date: 2020-03-29 22:30:00 +09:00
 feature: '/img/posts/008/008_thumbnail.jpg'
 background: '/img/posts/008/008_main.jpg'
 categories:
-  - Bestgames
+  - Latestgames
 tags:
   - 블러드스테인드
   - 최신게임
