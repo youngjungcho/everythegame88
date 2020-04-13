@@ -13,7 +13,7 @@ tags:
   - fps게임
   - PC게임
   - doom
-description: '화끈한 FTS의 결정판'
+description: '화끈한 FPS의 결정판'
 ---
 
 개발: id Software
