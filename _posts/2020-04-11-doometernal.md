@@ -42,10 +42,8 @@ description: '화끈한 FPS의 결정판'
     	<td>개인 평점</td>
     	<td>95점</td>
     </tr>
-  </body>
+  </tbody>
 </table>
-
-
 
 
 
