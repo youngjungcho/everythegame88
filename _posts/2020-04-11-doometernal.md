@@ -16,41 +16,13 @@ tags:
 description: '화끈한 FPS의 결정판'
 ---
 
-<html>
-
-<table>
-  <tbody>
-    <tr>
-      <td>개발</td>
-      <td>id Software</td>
-    </tr>
-    <tr>
-    	<td>유통</td>
-    	<td>Bethesda Softworks</td>
-    </tr>
-     <tr>
-    	<td>장르</td>
-    	<td>고전 FPS</td>
-    </tr>
-     <tr>
-    	<td>플랫폼</td>
-    	<td>PS4, XBOX, 스위치, PC</td>
-    </tr>
-     <tr>
-    	<td>메타크리틱 평점</td>
-    	<td>88.5점</td>
-    </tr>
-     <tr>
-    	<td>개인 평점</td>
-    	<td>95점</td>
-    </tr>
-  </tbody>
-</table>
-</html>
-
-
-
-
+| 개발            | id Software           |
+| --------------- | --------------------- |
+| 유통            | Bethesda Softworks    |
+| 장르            | 고전 FPS              |
+| 플랫폼          | PS4, XBOX, 스위치, PC |
+| 메타크리틱 평점 | 88.5점                |
+| 개인 평점       | 95점                  |
 
 
 
