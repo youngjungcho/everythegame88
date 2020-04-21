@@ -16,15 +16,17 @@ tags:
 description: '화끈한 FPS의 결정판'
 ---
 
-| 개발            | id Software           |
-| --------------- | --------------------- |
-| 유통            | Bethesda Softworks    |
-| 장르            | 고전 FPS              |
-| 플랫폼          | PS4, XBOX, 스위치, PC |
-| 메타크리틱 평점 | 88.5점                |
-| 개인 평점       | 95점                  |
+개발: id Software
 
+유통: Bethesda Softworks
 
+장르: 고전 FPS
+
+플렛폼: PS4, XBOX, 스위치, PC
+
+메타크리틱 평점: 88.5점
+
+개인 평점: 95점
 
 ## 찢고 뜯고 맛보고 즐기고! ##
 
