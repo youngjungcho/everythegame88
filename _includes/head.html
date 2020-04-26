@@ -69,12 +69,12 @@
     <meta property="article:author" content="{{ page.author }}" />
   {% endif %}
   {% if page.feature %}
-    <meta property="og:image" content="{{ site.github.url }}{{ page.feature }}" />
-    <meta name="twitter:image:src" content="{{ site.github.url }}{{ page.feature }}" />
-  {% else %}
-    <meta property="og:image" content="{{ site.github.url }}{{ site.thumbnail }}" />
-    <meta name="twitter:image:src" content="{{ site.github.url }}{{ site.thumbnail }}" />
-  {% endif %}
+      <meta property="og:image" content="{{ site.github.url }}{{ page.feature }}" />
+      <meta name="twitter:image:src" content="{{ site.github.url }}{{ page.feature }}" />
+    {% else %}
+      <meta property="og:image" content="{{ site.github.url }}{{ site.thumbnail }}" />
+      <meta name="twitter:image:src" content="{{ site.github.url }}{{ site.thumbnail }}" />
+    {% endif %}
     <meta property="og:locale" content="{{ site.locale }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
   {% if page.categories %}
