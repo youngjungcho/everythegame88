@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -55,9 +56,15 @@ layout: default
 
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+          <a class="btn" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
       </div>
     </div>
   </div>
+
+
+  <script type="text/javascript">
+  document.getElementsById("btn").addEventListener('click', function() {
+    fbq('track', 'Completesubimt’);
+  });
+  </script>
