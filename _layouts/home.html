@@ -56,15 +56,14 @@ layout: default
 
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+          <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
       </div>
     </div>
   </div>
 
-
   <script type="text/javascript">
-  document.getElementsById("btn").addEventListener('click', function() {
-    fbq('track', 'Completesubimt’);
-  });
+  document.getElementById('btn').addEventListener('click', function() {
+      fbq('track', 'AddToCart');
+  }, false);
   </script>
