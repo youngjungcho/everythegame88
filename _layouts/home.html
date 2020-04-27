@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<script type="text/javascript">
+document.getElementsByClassName("btn btn-primary float-right").addEventListener('click', function() {
+  fbq('track', 'Completesubimt’)}, false);
+</script>
+
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
