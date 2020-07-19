@@ -2,6 +2,7 @@
 layout: post
 permalink: /doometernal/
 title: '둠이터널(DOOM Eternal)'
+content_id: 'doom'
 date: 2020-04-12 21:30:00 +09:00
 feature: '/img/posts/009/009_thumbnail.jpg'
 background: '/img/posts/009/009_main.jpg'
@@ -66,7 +67,7 @@ description: '화끈한 FPS의 결정판'
 
 
 
-**컨셉** 
+**컨셉**
 
 악마를 처단하기 위한 다양한 무기, 속편이 기대되는 작품
 

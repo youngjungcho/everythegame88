@@ -2,6 +2,7 @@
 layout: post
 permalink: /Bloodstained/
 title: '블러드 스테인드: Ritual of the Night'
+content_id: 'blood'
 date: 2020-03-29 22:30:00 +09:00
 feature: '/img/posts/008/008_thumbnail.jpg'
 background: '/img/posts/008/008_main.jpg'
@@ -50,7 +51,7 @@ Bloodstained : Ritual of the Night는 옛날 악마성 드라큘라를 해본 �
 
 ## 다양한 스킬, 화려한 전투! ##
 
-블러드 스테인드의 전투는 주인공인 미리 암이 자신이 죽이는 몬스터의 파편을 장착하여 몬스터의 힘을 사용하게 된다. 처음에는 단순한 공격으로 시작하는 전투는 초반부터 빠르게 여러 가지 방법으로 전투를 재미있게 해준다. 
+블러드 스테인드의 전투는 주인공인 미리 암이 자신이 죽이는 몬스터의 파편을 장착하여 몬스터의 힘을 사용하게 된다. 처음에는 단순한 공격으로 시작하는 전투는 초반부터 빠르게 여러 가지 방법으로 전투를 재미있게 해준다.
 
 ![블러드스테인드 게임 이미지](/img/posts/008/008_5.jpg)
 
@@ -70,7 +71,7 @@ Bloodstained : Ritual of the Night는 옛날 악마성 드라큘라를 해본 �
 
 
 
-**컨셉** 
+**컨셉**
 
 Castlevania : Symphony of the Night를 성공으로 이끈 액션, 탐험 및 RPG 요소가 새로운 프랜차이즈로 태어났다.
 
