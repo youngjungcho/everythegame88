@@ -2,6 +2,7 @@
 layout: post
 permalink: /finalfantasy7/
 title: 'FINAL FANTASY.VII REMAKE'
+content_id: 'finalfantasy'
 date: 2020-03-18 10:00:00 +09:00
 feature: '/img/posts/006/006_thumbnail.jpg'
 background: '/img/posts/006/006_main.jpg'
@@ -61,7 +62,7 @@ description: '4월 10일에 돌아올 JRPG의 완성판!'
 
 ![파이널판타지7 게임 이미지](/img/posts/006/006_6.jpg)*<span style="color:gray">플스 노멀에서 프레임드랍이 약간 있다ㅠ_ㅠ.</span>*
 
-## PS1버전이 커피라면 리메이크는 TOP야. 
+## PS1버전이 커피라면 리메이크는 TOP야.
 
 이번 파판VII의 경이적인 변화는 지금까지 수많은 떡밥과 출시 연기를 상쇄시킬 만큼 완전히 새로운 게임으로 변화시켜서 데모 버전이 출시되었다.
 
@@ -80,4 +81,3 @@ description: '4월 10일에 돌아올 JRPG의 완성판!'
 말도 많고 탈도 많았던 파판VII 리메이크.
 
 2020년 4월 10일. 드디어 출시다. 어서 하루빨리 시간이 지나가길 기다리고 있다.
-

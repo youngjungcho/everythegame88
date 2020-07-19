@@ -2,6 +2,7 @@
 layout: post
 permalink: /narara_superboard/
 title: '비운의 미완성작 환상서유기'
+content_id: 'narara'
 date: 2020-02-24 18:00:00 +09:00
 feature: '/img/posts/004/super_thumbnail.jpg'
 background: '/img/posts/004/super_main.jpg'
@@ -41,4 +42,3 @@ description: '날아라 슈퍼보드를 추억하며 즐기는 게임!'
 ![환상서유기 게임 이미지](/img/posts/004/004_4.jpg)*<span style="color:gray">완성이 되었으면 더 화려한 스킬이 있었겠지..</span>*
 
 비운의 명작 날아라 슈퍼보드 환상 서유기. 이 게임이 완벽하게 완성되어 나왔다면 창세기전보다 더 높은 평가를 받았을 수도 있다고 필자는 생각한다. 현재 이 시리즈의 팬들이 자체적으로 2편을 제작하고 있지만 수월하지 않다고 한다. 이 게임의 2편을 기대하며 [https://blog.naver.com/lcm9837](https://blog.naver.com/lcm9837 "superboard link") 들어가서 응원의 한 마디를 남겨보는 건 어떨까?
-
