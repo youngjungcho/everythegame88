@@ -2,7 +2,7 @@
 layout: post
 permalink: /doometernal/
 title: '둠이터널(DOOM Eternal)'
-content_id: '0009'
+content_id: 0009
 date: 2020-04-12 21:30:00 +09:00
 feature: '/img/posts/009/009_thumbnail.jpg'
 background: '/img/posts/009/009_main.jpg'
