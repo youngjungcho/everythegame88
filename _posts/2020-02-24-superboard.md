@@ -2,7 +2,7 @@
 layout: post
 permalink: /narara_superboard/
 title: '비운의 미완성작 환상서유기'
-content_id: 'narara'
+content_id: '0004'
 date: 2020-02-24 18:00:00 +09:00
 feature: '/img/posts/004/super_thumbnail.jpg'
 background: '/img/posts/004/super_main.jpg'
