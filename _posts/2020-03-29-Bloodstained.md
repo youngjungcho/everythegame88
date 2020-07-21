@@ -2,7 +2,7 @@
 layout: post
 permalink: /Bloodstained/
 title: '블러드 스테인드: Ritual of the Night'
-content_id: 0008
+content_id: 'game0008'
 date: 2020-03-29 22:30:00 +09:00
 feature: '/img/posts/008/008_thumbnail.jpg'
 background: '/img/posts/008/008_main.jpg'

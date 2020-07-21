@@ -2,7 +2,7 @@
 layout: post
 permalink: /dragonball_kakarot/
 title: '드래곤볼Z 카카로트'
-content_id: 0002
+content_id: 'game0002'
 date: 2020-02-03 20:00:00 +09:00
 feature: '/img/posts/002/kakarot_thumbnail.jpg'
 background: '/img/posts/002/main.jpg'
