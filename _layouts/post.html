@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<script type="text/javascript">
+  dataLayer.push({
+    'contentIds' : !{{page.content_id}}!,
+    'contentTltle' : !{{page.title}}!,
+    'event' : 'contentView'
+  })
+</script>
+
 <!-- Page Header -->
 {% if page.background %}
   <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -51,11 +59,3 @@ layout: default
     </div>
   </article>
   {% include disqus.html %}
-
-  <script type="text/javascript">
-    dataLayer.push({
-      'contentIds' : !{{page.content_id}}!,
-      'contentTltle' : !{{page.title}}!,
-      'event' : 'contentView'
-    })
-  </script>
